@@ -1,0 +1,8 @@
+Hi {greeting},
+
+I'm reaching out because I am researching early-stage teams and the problems they are solving.
+
+I came across {company} and would welcome a short conversation if relevant.
+
+Regards,
+Your Name
